@@ -134,7 +134,7 @@ td{
      } 
 }
 </style>  
-<title>The Bank</title>
+<title>Vault Bank</title>
 </head>
 <body>
 
