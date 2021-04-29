@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SPX NetBanking-View All Transactions</title>
+<title>Vault Bank</title>
 <style>
 .topnav {
   overflow: hidden;
