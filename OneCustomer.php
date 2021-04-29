@@ -15,7 +15,7 @@ $_SESSION['sender']=$_SESSION['user'];
 <html lang="en">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">    
-<title>SPX NetBanking-Customer Details</title>
+<title>Vault Bank</title>
 <style>
  
  .topnav {
@@ -185,7 +185,6 @@ function toggleTable() {
 <a href="home.html" >Home</a>
 <a href="View.php">View Customers</a>
 <a href="Transc.php">View Transactions</a>
-<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>    
 <script>
 function myFunction() {
